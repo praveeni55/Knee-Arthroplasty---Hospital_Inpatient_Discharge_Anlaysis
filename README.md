@@ -21,13 +21,6 @@ This analysis examines the knee arthroplasty cases to uncover trends, outcomes, 
 3. To identify the most common diagnoses leading to knee arthroplasty.
 4. To explore demographic variations in surgical outcomes.
 
-## Instructions for Visualizations
-To generate visualizations, please follow these steps:
-1. Load the dataset into your preferred analysis software (e.g., Python, R).
-2. Clean the data to handle any missing or inconsistent entries.
-3. Utilize visualization libraries (e.g., Matplotlib, Seaborn for Python or ggplot2 for R) to create visual representations of the data.
-4. Consider visualizing trends over time, demographic breakdowns, and comparisons of outcomes.
-
 ### Visual Suggested:
 - Bar charts for distribution of patients by age and gender
 - Pie charts for discharge status outcomes
