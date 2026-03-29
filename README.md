@@ -1,4 +1,4 @@
-#Knee Arthroplasty Patient - Detailed Analysis Overview
+# Knee Arthroplasty Patient - Detailed Analysis Overview
 
 ## New York 2021 Patient Discharge Dataset
 This dataset contains records of patient discharges from hospitals in New York in 2021. It includes various demographics, diagnosis codes, procedural codes, and outcomes. The analysis focuses on knee arthroplasty, a common surgical procedure performed on patients with knee joint issues.
